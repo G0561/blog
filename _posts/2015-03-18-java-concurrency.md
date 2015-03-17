@@ -17,6 +17,7 @@ comments: true
    3. 通过 http://minixbeta.github.io/blog/ 来访问你的新博客
 
 ##给blog增加评论功能
+###
 1.到这里注册：https://disqus.com/admin/create/ 
 2.添加一个站点，定义一个短名
 3.修改 `_inclusds/comments.ext`，把里面的 `disqus_shortname ` 修改成你的博客短名
