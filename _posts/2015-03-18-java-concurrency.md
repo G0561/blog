@@ -24,6 +24,5 @@ comments: true
     4.启用评论，在写文章的风格定义部分，加上 `comments: true` 
 
 我的blog： http://g0561.github.io/blog/  只要联网就可以访问到的
-
-这篇文章是学习一个网友的，非常感谢他，希望对大家有所帮助
+希望对大家有所帮助，非常感谢原作者开发的这个框架
 原文地址：http://blog.csdn.net/on_1y/article/details/19259435#t8
