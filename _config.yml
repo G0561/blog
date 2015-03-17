@@ -1,6 +1,6 @@
 username: G0561
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
-title: 飞鸟集
+title: G0561'blog
