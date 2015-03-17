@@ -22,7 +22,7 @@ comments: true
    2.添加一个站点，定义一个短名
    3.修改 `_inclusds/comments.ext`，把里面的 `disqus_shortname ` 修改成你的博客短名
    4.启用评论，在写文章的风格定义部分，加上 `comments: true` 
-
+##
 我的blog： http://g0561.github.io/blog/  只要联网就可以访问到的
 
 这篇文章是学习一个网友的，非常感谢他，希望对大家有所帮助
