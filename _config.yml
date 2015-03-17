@@ -3,4 +3,4 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
-title: G0561'blog
+title: G0561 Blog
