@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 如何搭建自己的blog
+title: 1.如何搭建自己的blog
 comments: true
 ---
 
