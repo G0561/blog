@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 15. 数独游戏
+title: 16. 隐藏政策
 comments: true
 ---
 ##
